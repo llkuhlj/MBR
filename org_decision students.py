@@ -8,7 +8,7 @@ Created on Sat Jan 19 20:38:07 2019
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+# changed by victor
 ##########################    
 # Parameters
 ##########################
@@ -23,7 +23,6 @@ e_high = 10
 E = 100
 K = np.linspace(0, 5, num=11)
 number_Ks = len(K)
-
 
 ##########################    
 # Functions test
