@@ -8,7 +8,7 @@ Created on Sat Jan 19 20:38:07 2019
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+# changed by victor
 ##########################    
 # Parameters
 ##########################
